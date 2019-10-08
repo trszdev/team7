@@ -31,7 +31,7 @@
     "express-promise-router": "3.0.2",
     "got": "8.3.0",
     "html-to-utf8": "0.1.0",
-    "knex": "0.14.6",
+    "knex": "0.19.5",
     "lodash": "4.17.5",
     "metascraper": "3.10.4",
     "mngen": "1.1.0",
