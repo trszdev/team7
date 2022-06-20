@@ -29,7 +29,7 @@
     "dotenv": "5.0.1",
     "express": "4.16.3",
     "express-promise-router": "3.0.2",
-    "got": "8.3.0",
+    "got": "11.8.5",
     "html-to-utf8": "0.1.0",
     "knex": "0.14.6",
     "lodash": "4.17.5",
