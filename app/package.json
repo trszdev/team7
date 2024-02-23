@@ -33,7 +33,7 @@
     "html-to-utf8": "0.1.0",
     "knex": "0.14.6",
     "lodash": "4.17.5",
-    "metascraper": "3.10.4",
+    "metascraper": "4.9.0",
     "mngen": "1.1.0",
     "mobx": "4.1.1",
     "mobx-react": "5.0.0",
